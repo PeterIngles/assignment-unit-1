@@ -4,11 +4,11 @@ body{
 }
 /* Make the header and footer a different color from the background */
 header{
-    color: antiquewhite;
+    background-color: rgb(198, 185, 167);
     text-align: center;
 }
 footer{
-    color: antiquewhite;
+    background-color: rgb(198, 185, 167);
 }
 /* Align the h1 containing your name in the center of the header*/
 
